@@ -4,7 +4,7 @@
 
 int isPalindrome(int n)
 {
-      if (n < 0){
+      if (n < 0){ //valid
         return 0;
     }
     int temp = n;

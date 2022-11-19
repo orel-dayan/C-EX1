@@ -2,13 +2,13 @@
 #ifndef C_EX1_NUMCLASS_H
 #define C_EX1_NUMCLASS_H
 
-int isArmstrong(int num);
+int isArmstrong(int);
 
-int isPalindrome(int num);
+int isPalindrome(int);
 
-int isPrime(int num);
+int isPrime(int);
 
-int isStrong(int num);
+int isStrong(int);
 
 
 #endif //C_EX1_NUMCLASS_H

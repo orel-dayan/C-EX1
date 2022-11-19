@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include "NumClass.h"
-
 int main(){
-
-int n1 = 0, n2 = 0;
+    
+int n1 =0, n2 = 0;
  scanf("%d%d", &n1, &n2);
 
 printf("The Armstrong numbers are:");
