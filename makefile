@@ -2,7 +2,6 @@
 # advancedClassificationLoop.c
 # basicClassification.c
 # main.c
-# written by orel dayan 
 #flags 
 CC = gcc
 AR = ar -rcs
