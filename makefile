@@ -2,7 +2,7 @@
 # advancedClassificationLoop.c
 # basicClassification.c
 # main.c
-# written by orel dayan and roy asraf 
+# written by orel dayan 
 #flags 
 CC = gcc
 AR = ar -rcs
@@ -72,6 +72,6 @@ advancedClassificationRecursion.c:
 
 # clean
 clean: 
-	rm -f cmake-build-debug *.o *.a *.so mains maindloop maindrec
+	rm -f *.o *.a *.so mains maindloop maindrec
 	
    
